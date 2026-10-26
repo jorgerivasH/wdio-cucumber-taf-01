@@ -34,3 +34,9 @@ Test cases
 - Test to verify the forgot password functionality
 - Test to verify a login functionality
 - Test to verify a Google navigation functionality
+
+WHY THESE SCENARIOS
+- Login and Forgot are critical and real scenarios. The automation engineers are working continuously, and the Page Object pattern can be implemented to work with selectors in detail
+- It validates form interaction. It exercises data entry, clicks, form submission,  and verification of confirmation or error messages.
+- It can be covered positive and negative scenarios
+- Navigation test created to validate basic browser actions
